@@ -1,0 +1,17 @@
+{
+  "name": "videogen",
+  "version": "1.0.0",
+  "description": "Create, edit, and export product ads and narrated videos with VideoGen through its hosted MCP connector.",
+  "author": {
+    "name": "VideoGen",
+    "email": "support@videogen.io",
+    "url": "https://github.com/video-gen"
+  },
+  "homepage": "https://videogen.io/videogen-mcp",
+  "license": "MIT",
+  "keywords": [
+    "videogen",
+    "videogen mcp",
+    "videogen video"
+  ]
+}
