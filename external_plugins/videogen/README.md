@@ -39,8 +39,8 @@ this submission has been statically validated, not exercised in that host.
 
 Maintained by VideoGen ([official GitHub organization](https://github.com/video-gen)).
 Contact: support@videogen.io. Plugin files are MIT licensed; use of the hosted
-service is governed by [VideoGen's terms](https://videogen.io/terms) and
-[privacy policy](https://videogen.io/privacy).
+service is governed by [VideoGen's terms](https://videogen.io/terms-of-service) and
+[privacy policy](https://videogen.io/privacy-policy).
 
 ## Updating the submission
 
